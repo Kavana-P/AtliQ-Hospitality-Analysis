@@ -20,9 +20,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ### Screenshots
 
-[Revenue insights] (Screenshot (21).png)
-[Week over Week Change in metrics] (C:\Users\kavan\OneDrive\Pictures\Screenshots\Screenshot (22).png)
-[info] (C:\Users\kavan\OneDrive\Pictures\Screenshots\Screenshot (23).png)
+* [Revenue insights] (https://github.com/Kavana-P/AtliQ-Hospitality-Analysis/blob/main/Screenshot%20(21).png?raw=true)
+* [Week over Week Change in metrics] (C:\Users\kavan\OneDrive\Pictures\Screenshots\Screenshot (22).png)
+* [info] (C:\Users\kavan\OneDrive\Pictures\Screenshots\Screenshot (23).png)
 
 ## Key Insights
 
