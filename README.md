@@ -19,7 +19,20 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 * Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Dashboard
-[Data Model] ![Screenshot (24)](https://github.com/Kavana-P/AtliQ-Hospitality-Analysis/assets/162594270/533dcdd4-3627-47ad-ace6-c0b43b54c4c5)
+## Mock up Dashboard provided for the challenge
+![mock up dashboard_atliq grands](https://github.com/Kavana-P/AtliQ-Hospitality-Analysis/assets/162594270/289f8bf3-edb3-491e-bb0c-f5bc5d751a3b)
+
+## Data Model
+![Screenshot (24)](https://github.com/Kavana-P/AtliQ-Hospitality-Analysis/assets/162594270/533dcdd4-3627-47ad-ace6-c0b43b54c4c5)
+
+## Overall Analysis View
+![Screenshot (21)](https://github.com/Kavana-P/AtliQ-Hospitality-Analysis/assets/162594270/cccfe5b6-a575-43a6-98fc-ea1b22caf2a4)
+
+## Week over Week Analysis
+![Screenshot (22)](https://github.com/Kavana-P/AtliQ-Hospitality-Analysis/assets/162594270/a62b8c04-ca4b-4081-90b3-bb4e0c14632a)
+
+## Info
+![Screenshot (23)](https://github.com/Kavana-P/AtliQ-Hospitality-Analysis/assets/162594270/5e645628-5de9-4d72-a18f-01e34840b8ad)
 
 
 ## Key Insights
