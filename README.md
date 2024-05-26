@@ -18,6 +18,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 * Create a dashboard according to the mock-up provided by stakeholders.
 * Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
+## Dashboard
+[Data Model] ![Screenshot (24)](https://github.com/Kavana-P/AtliQ-Hospitality-Analysis/assets/162594270/533dcdd4-3627-47ad-ace6-c0b43b54c4c5)
+
+
 ## Key Insights
 
 - **Top Revenue Generators**:
